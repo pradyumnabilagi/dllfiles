@@ -1,6 +1,7 @@
 # dllfiles
 main() calls functions from the dll files while exicution of .exe file.DLL files also call eachother.
- 
+  The namespace of dll1 is named as dllspec.And the class declared in it is called dllclass.
+  The namespace od dll2 is named as dllspec2.And the class declared in it is called dllclass2.
  
  
    Run the exodll.exe ,enter any 2 numbers
