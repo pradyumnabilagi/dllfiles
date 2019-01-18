@@ -13,3 +13,6 @@ main() calls functions from the dll files while exicution of .exe file.DLL files
    first time by calling a function from dll2,second time by calling a function from dll1.when called first time the function in dll2 calls a function from dll1(the same function from dlll1 which is called second time).
    
    this was created in codeblocks.
+
+   I have made a video on how to create dll file and use it in console application project in code block so check it out and please subscribe.
+   link is:https://www.youtube.com/watch?v=OAZcStduW8o&t=10s
